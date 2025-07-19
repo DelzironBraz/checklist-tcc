@@ -1,4 +1,4 @@
-# ✅ Checklist de Melhorias no Documento
+# ✅ Checklist de Melhorias no Documento (Parte 1)
 
 ## 🔁 Estrutura e Organização
 
@@ -52,8 +52,6 @@
 - [ ] **Verificar o alinhamento institucional**
   - Especialmente com diretrizes de saúde mental da UnB ou órgãos institucionais vinculados.
 
-# ✅ Checklist de Melhorias com Base na Avaliação do TCC
-
 ## 🧩 Estrutura e Organização Geral
 
 - [ ] Separar as seções "Resultados" e "Discussão" em capítulos distintos.
@@ -72,6 +70,9 @@
 - [ ] Substituir “promoção da saúde mental e física” por “promoção da saúde mental e bem-estar”.
 - [ ] Uniformizar a escrita de citações (maiúsculas/minúsculas).
 - [ ] Rever expressões ambíguas ou genéricas (“subsídios relevantes”, “forte interesse”, etc.).
+
+
+# ✅ Checklist de Melhorias no Documento (Parte 2)
 
 ## 📊 Formatação e Normas Técnicas (ABNT)
 
